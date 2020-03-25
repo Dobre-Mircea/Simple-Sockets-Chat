@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f5d5a66-4f02-4f72-b357-239463b62bd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMG0vUOR6i9zIKhcZx6cKzk0i5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Mediator" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ViewModel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ViewModel" />
+      <recent name="view" />
+      <recent name="model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dobre\OneDrive\Assignment - 2\src\Mediator" />
+      <recent name="C:\Users\dobre\OneDrive\Assignment - 2\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApplication" />
+      <module name="Assignment - 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f5d5a66-4f02-4f72-b357-239463b62bd0" name="Default Changelist" comment="" />
+      <created>1584641329605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584641329605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1584650845129">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584650845129" />
+    <state x="755" y="332" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584643202170">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="332" key="#com.intellij.ide.util.PackageChooserDialog/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584643202170" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1584644845520">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584644845520" />
+    <state width="1002" height="354" key="GridCell.Tab.0.bottom" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="326" key="GridCell.Tab.0.bottom/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584653625381" />
+    <state width="1002" height="354" key="GridCell.Tab.0.bottom/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.0.center" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="326" key="GridCell.Tab.0.center/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584653625380" />
+    <state width="1002" height="354" key="GridCell.Tab.0.center/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.0.left" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="326" key="GridCell.Tab.0.left/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584653625380" />
+    <state width="1002" height="354" key="GridCell.Tab.0.left/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.0.right" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="326" key="GridCell.Tab.0.right/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584653625380" />
+    <state width="1002" height="354" key="GridCell.Tab.0.right/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.1.bottom" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="354" key="GridCell.Tab.1.bottom/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584652774863" />
+    <state width="1002" height="354" key="GridCell.Tab.1.bottom/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.1.center" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="354" key="GridCell.Tab.1.center/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584652774863" />
+    <state width="1002" height="354" key="GridCell.Tab.1.center/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.1.left" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="354" key="GridCell.Tab.1.left/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584652774863" />
+    <state width="1002" height="354" key="GridCell.Tab.1.left/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state width="1002" height="354" key="GridCell.Tab.1.right" timestamp="1584657503383">
+      <screen x="2560" y="-339" width="1080" height="1870" />
+    </state>
+    <state width="1002" height="354" key="GridCell.Tab.1.right/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584652774863" />
+    <state width="1002" height="354" key="GridCell.Tab.1.right/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584657503383" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1584644848035">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584644848035" />
+    <state x="465" y="131" key="new project wizard" timestamp="1584651130487">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="465" y="131" key="new project wizard/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584651130487" />
+  </component>
+</project>

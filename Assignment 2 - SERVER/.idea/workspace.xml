@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9b4f33b-8dc2-47ef-bd24-dfba28f2fd23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMZsZomCjMSUHUGNtevpzSpIYt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dobre\OneDrive\Assignment 2 - SERVER\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Assignment 2 - SERVER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b4f33b-8dc2-47ef-bd24-dfba28f2fd23" name="Default Changelist" comment="" />
+      <created>1584651130514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584651130514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1584652179873">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584652179873" />
+    <state width="2005" height="285" key="GridCell.Tab.0.bottom" timestamp="1584657500993">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="285" key="GridCell.Tab.0.bottom/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584657500993" />
+    <state width="1037" height="285" key="GridCell.Tab.0.bottom/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584653596776" />
+    <state width="2005" height="285" key="GridCell.Tab.0.center" timestamp="1584657500992">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="285" key="GridCell.Tab.0.center/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584657500992" />
+    <state width="1037" height="285" key="GridCell.Tab.0.center/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584653596776" />
+    <state width="2005" height="285" key="GridCell.Tab.0.left" timestamp="1584657500992">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="285" key="GridCell.Tab.0.left/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584657500992" />
+    <state width="1037" height="285" key="GridCell.Tab.0.left/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584653596776" />
+    <state width="2005" height="285" key="GridCell.Tab.0.right" timestamp="1584657500993">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="285" key="GridCell.Tab.0.right/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@0.0.2048.1112" timestamp="1584657500993" />
+    <state width="1037" height="285" key="GridCell.Tab.0.right/2560.-339.1080.1870/-1080.-330.1080.1880/0.0.2048.1112@2560.-339.1080.1870" timestamp="1584653596776" />
+  </component>
+</project>
